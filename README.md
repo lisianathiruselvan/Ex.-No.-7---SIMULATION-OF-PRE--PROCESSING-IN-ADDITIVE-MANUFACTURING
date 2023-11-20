@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/lisianathiruselvan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119389971/5e761993-8d3a-437b-93ed-ffb40ec7a3c8)
+
+### Name:T.LISIANA
+### Register Number:212222240053
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
