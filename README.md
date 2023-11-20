@@ -47,8 +47,8 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/8.png)
 
-### Name: Jeyabalan
-### Register Number: 212222240040
+### Name: Lisiana
+### Register Number: 212222240053
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
